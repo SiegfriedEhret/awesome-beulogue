@@ -6,6 +6,8 @@
 
 > A curated list of Awesome beulogue stuff
 
+![Awesome](https://raw.githubusercontent.com/SiegfriedEhret/awesome-beulogue/master/media/badge.svg) [![Build Status](https://travis-ci.org/SiegfriedEhret/awesome-beulogue.svg?branch=master)](https://travis-ci.org/SiegfriedEhret/awesome-beulogue)
+
 ## beulogue
 
 - [beulogue](https://www.npmjs.com/package/beulogue): beulogue
