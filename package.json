@@ -1,0 +1,11 @@
+{
+  "name": "awesome-beulogue",
+  "version": "9000",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiegfriedEhret/awesome-beulogue.git"
+  }
+}
