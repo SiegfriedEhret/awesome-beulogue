@@ -1,6 +1,6 @@
 {
   "name": "awesome-beulogue",
-  "version": "9000",
+  "version": "9000.0.0",
   "scripts": {
     "test": "exit 0"
   },
