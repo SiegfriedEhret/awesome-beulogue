@@ -10,4 +10,4 @@
 
 ## beulogue
 
-- [beulogue](https://www.npmjs.com/package/beulogue): beulogue
+- [beulogue](https://github.com/SiegfriedEhret/beulogue/): beulogue
